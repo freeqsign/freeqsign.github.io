@@ -1,4 +1,4 @@
-![Screenshot_2024-09-28-12-05-49-932_com.nineton.shouzhang-edit](_res/Screenshot_2024-09-28-12-05-49-932_com.nineton.shouzhang-edit.jpg)
+![Screenshot_2024-09-28-12-05-49-932_com.nineton.shouzhang-edit](./Screenshot_2024-09-28-12-05-49-932_com.nineton.shouzhang-edit.jpg)
 ### 欢迎使用「椛椛阁｜免费Qsign」
 ##### Welcome To Use 「Huahuage｜Qsign」
 ---
